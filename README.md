@@ -45,4 +45,4 @@ npm install
 npm run dev
 ```
 
-## Live Link - [https://vercel.com/preksha-jains-projects/sorting-visualizer/AtwRbQy9tsvyc9KRH9hoqWzqSvZQ]
+## Live Link - [https://sorting-visualizer-two-nu.vercel.app/]
